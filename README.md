@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**nastyamarahovskaya88-ui/nastyamarahovskaya88-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привіт! Мене звати Анастасія 👋
 
-Here are some ideas to get you started:
+## 👩‍💻 Про мене
+Я студентка, яка цікавиться програмуванням та сучасними IT-технологіями. Зараз я вивчаю основи веброзробки та вчуся створювати власні проєкти.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мої інтереси
+- Програмування та штучний інтелект
+- Подорожі
+- Читання книг
+- Спорт та саморозвиток
+
+## 🛠 Що я вивчаю
+- HTML, CSS та JavaScript
+- Git і GitHub
+- Створення вебсайтів
+- Використання AI-інструментів
+
+## 🎯 Мої цілі
+1. Опанувати основні мови веброзробки.
+2. Створити власні IT-проєкти.
+3. Сформувати портфоліо на GitHub.
+4. Стати професійною розробницею.
+
+---
+*Дякую, що відвідали мій профіль!*
+  
